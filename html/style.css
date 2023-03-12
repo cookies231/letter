@@ -1,0 +1,25 @@
+.container {
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    color: #cc0000;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
